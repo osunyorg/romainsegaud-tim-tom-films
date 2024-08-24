@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Projets
-  target: "/fr/projets/"
+  target: "/fr/realisations/"
   kind: page
   children: []
 - title: À propos
