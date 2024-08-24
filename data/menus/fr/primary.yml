@@ -9,4 +9,8 @@ items:
   target: "/fr/a-propos/"
   kind: page
   children: []
+- title: Accueil
+  target: "/fr/"
+  kind: page
+  children: []
 
