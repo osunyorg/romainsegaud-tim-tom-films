@@ -5,7 +5,7 @@ items:
   target: "/fr/projets/"
   kind: page
   children: []
-- title: Biographie
+- title: À propos
   target: "/fr/biographie/"
   kind: page
   children: []
