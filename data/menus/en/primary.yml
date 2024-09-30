@@ -5,4 +5,16 @@ items:
   target: "/en/projects/"
   kind: page
   children: []
+- title: Posts
+  target: "/en/posts/"
+  kind: page
+  children: []
+- title: Team
+  target: "/en/team/"
+  kind: page
+  children: []
+- title: Organizations
+  target: "/en/organizations/"
+  kind: page
+  children: []
 
