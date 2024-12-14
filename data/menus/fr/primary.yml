@@ -5,15 +5,18 @@ items:
   target: "/fr/"
   kind: page
   children: []
+  path: "/"
   file: content/fr/_index.html
 - title: Réalisations
   target: "/fr/realisations/"
   kind: page
   children: []
+  path: "/projects"
   file: content/fr/projects/_index.html
 - title: À propos
   target: "/fr/a-propos/"
   kind: page
   children: []
+  path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 
