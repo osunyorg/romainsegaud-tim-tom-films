@@ -15,62 +15,62 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/plan-du-site/index.html"
+from = "/plan-du-site/"
 to = "/fr/plan-du-site/"
 
 [[redirects]]
-from = "/fr/projets/courts-metrages/index.html"
+from = "/fr/projets/courts-metrages/"
 to = "/fr/realisations/courts-metrages/"
 
 [[redirects]]
-from = "/fr/biographie/index.html"
+from = "/fr/biographie/"
 to = "/fr/a-propos/"
 
 [[redirects]]
-from = "/projets/index.html"
+from = "/projets/"
 to = "/fr/realisations/"
 
 [[redirects]]
-from = "/actualites/index.html"
+from = "/actualites/"
 to = "/fr/actualites/"
 
 [[redirects]]
-from = "/fr/projets/index.html"
+from = "/fr/projets/"
 to = "/fr/realisations/"
 
 [[redirects]]
-from = "/accessibilite/index.html"
+from = "/accessibilite/"
 to = "/fr/accessibilite/"
 
 [[redirects]]
-from = "/equipe/index.html"
+from = "/equipe/"
 to = "/fr/equipe/"
 
 [[redirects]]
-from = "/organisations/index.html"
+from = "/organisations/"
 to = "/fr/organisations/"
 
 [[redirects]]
-from = "/fr/projets/2018-deux-escargots-sen-vont/index.html"
+from = "/fr/projets/2018-deux-escargots-sen-vont/"
 to = "/fr/realisations/2018-deux-escargots-sen-vont/"
 
 [[redirects]]
-from = "/projets/courts-metrages/index.html"
+from = "/projets/courts-metrages/"
 to = "/fr/realisations/courts-metrages/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/index.html"
+from = "/equipe/equipe-editoriale/"
 to = "/fr/equipe/equipe-editoriale/"
 
 [[redirects]]
-from = "/mentions-legales/index.html"
+from = "/mentions-legales/"
 to = "/fr/mentions-legales/"
 
 [[redirects]]
-from = "/projets/2018-deux-escargots-sen-vont/index.html"
+from = "/projets/2018-deux-escargots-sen-vont/"
 to = "/fr/realisations/2018-deux-escargots-sen-vont/"
 
 [[redirects]]
-from = "/politique-de-confidentialite/index.html"
+from = "/politique-de-confidentialite/"
 to = "/fr/politique-de-confidentialite/"
 
